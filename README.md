@@ -93,10 +93,14 @@ python diffusers_Uni_Gen.py \
 同时请引用底层模型 Kiwi-Edit：
 
 ```bibtex
-@misc{kiwi2024,
-  title={Kiwi-Edit: Instruction-Guided Video Editing with Multimodal LLMs},
-  author={Kiwi-Edit Contributors},
-  year={2024}
+@misc{kiwiedit,
+      title={Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance}, 
+      author={Yiqi Lin and Guoqiang Liang and Ziyun Zeng and Zechen Bai and Yanzhe Chen and Mike Zheng Shou},
+      year={2026},
+      eprint={2603.02175},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.02175}, 
 }
 ```
 
