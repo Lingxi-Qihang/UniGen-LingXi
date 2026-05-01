@@ -349,6 +349,10 @@ UniGen-LingXi/
 - **Core Developer**: [Shybert-AI](https://github.com/Shybert-AI)
 - [Kiwi-Edit](https://huggingface.co/linyq/kiwi-edit-5b-instruct-reference-diffusers) for providing powerful video/image editing capabilities.
 - Thanks to the open-source community and the HuggingFace Diffusers team.
+- A preprint of this work is available in this repository ([paper.pdf](UniGen-LingXi A Resource-Efficient Editing-First Framework_en.pdf)). 
+We are seeking endorsement from an active arXiv author in cs.CV to complete 
+the arXiv submission. If you are willing to help, please contact us via 
+GitHub Issues or email.
 
 ## 📝 Conclusion
 
