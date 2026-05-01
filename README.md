@@ -22,7 +22,7 @@ tags:
 <p align="center">
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
-[![Diffusers](https://img.shields.io/badge/diffusers-0.29.2-orange)](https://github.com/huggingface/diffusers)
+[![Diffusers](https://img.shields.io/badge/diffusers-0.37.0-orange)](https://github.com/huggingface/diffusers)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-shyai%2FUniGen--LingXi--5B-yellow)](https://huggingface.co/shyai/UniGen-LingXi-5B)
 [![ModelScope](https://img.shields.io/badge/ModelScope-haohanxingcheng%2FUniGen--LingXi--5B-green)](https://modelscope.cn/models/haohanxingcheng/UniGen-LingXi-5B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE)
