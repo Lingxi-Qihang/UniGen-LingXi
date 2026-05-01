@@ -1,3 +1,22 @@
+---
+license: mit
+base_model:
+  - Kiwi-Edit
+  - Wan2.2-TI2V-5B
+  - Qwen/Qwen2.5-VL-3B
+library_name: diffusers
+pipeline_tag: image-text-to-video
+tags:
+  - video-generation
+  - video-editing
+  - image-editing
+  - text-to-video
+  - text-to-image
+  - image-to-video
+  - reference-guided
+  - unified-framework
+---
+
 # UniGen-LingXi: A Unified Multi-Modal Generation and Editing Framework
 
 <p align="center">
